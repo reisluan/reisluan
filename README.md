@@ -1,21 +1,26 @@
 # Cyber Security é uma jornada, não um destino.
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reisluan&theme=dark"/>
-  <a href="https://github.com/reisluan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reisluan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisluan&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reisluan&theme=dark" />
 </div>
 
 ## 🛠️ TECNOLOGIAS
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Kali Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 30px; justify-items: center;">
+    <img align="center" alt="Linux" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img align="center" alt="Bash" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+    <img align="center" alt="Python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Go" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+    <img align="center" alt="Docker" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Nginx" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+    <img align="center" alt="JavaScript" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="center" alt="HTML5" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS3" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
 </div>
+
 
 ## 🧠 PERFIL
 
