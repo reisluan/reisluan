@@ -1,8 +1,8 @@
 # Cyber Security é uma jornada, não um destino.
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisluan&layout=compact&theme=dark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=reisluan&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisluan&layout=compact&theme=dark" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=reisluan&theme=dark" />
 </div>
 
 ## 🛠️ TECNOLOGIAS
@@ -14,7 +14,6 @@
     <img align="center" alt="Python" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Go" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
     <img align="center" alt="Docker" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" alt="Nginx" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
     <img align="center" alt="JavaScript" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     <img align="center" alt="HTML5" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS3" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
