@@ -1,7 +1,7 @@
 # Cyber Security é uma jornada, não um destino.
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <img align="left" alt="Luan Reis" width="150" style="border-radius:50px;" src="https://i.imgur.com/bXxIgrd.png">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reisluan&theme=dark"/>
   <a href="https://github.com/reisluan">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reisluan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
